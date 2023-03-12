@@ -7,6 +7,8 @@ featured: true
 draft: false
 tags:
   - tutorials
+  - security
+  - data
 ogImage: ""
 description: In this blog post i will be talking on how to store sensitive user data in your database with on demande access from the user
 ---
